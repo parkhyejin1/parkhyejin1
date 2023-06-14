@@ -21,12 +21,12 @@ Here are some ideas to get you started:
   </p>
   </br>
   
-  <br/>
+
 <p align="center">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   </p>
-  </br>
+
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
    </p>
 
-
+<br/>
 
 <div align="center">
  :bulb: GitHub Stats :bulb:
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkhyejin1&theme=omni)
 
 </div>
-
+</br>
 
 
 <div align="center">
