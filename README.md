@@ -1,6 +1,4 @@
-<div align="center">
-  ### Hi there 👋
-</div>
+<div align="center"> ### Hi there 👋</div>
 
 <!--
 **parkhyejin1/parkhyejin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
