@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyejin1&layout=compact)](https://github.com/parkhyejin1/github-readme-stats)
 
 
 
