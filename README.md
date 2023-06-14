@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
- ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+ 
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyejin1&layout=compact)](https://github.com/parkhyejin1/github-readme-stats)
