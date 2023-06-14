@@ -38,12 +38,15 @@ Here are some ideas to get you started:
    </p>
 
 
-
+<p align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyejin1&layout=compact)](https://github.com/parkhyejin1/github-readme-stats)
+  
+     </p>
 
-
+<p align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkhyejin1&theme=omni)
 
+     </p>
 
