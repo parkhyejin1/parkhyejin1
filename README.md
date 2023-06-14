@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
    </p>
 
-<br/>
 
-</br>
+
 <div align="center">
  :bulb: GitHub Stats :bulb:
+
   <br/>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkhyejin1&theme=omni)
