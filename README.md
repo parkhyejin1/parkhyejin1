@@ -60,7 +60,7 @@ Here are some ideas to get you started:
  <br/>
 <div align="center">
 
- :pencil: Most used languages :pencil:
+ :pencil: Most Used Languages :pencil:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyejin1&layout=compact)](https://github.com/parkhyejin1/github-readme-stats)
 
