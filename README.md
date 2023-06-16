@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 <br/>
 <p align="center">
-<h1> :computer: STACKS :computer: </h1>
+:computer: STACKS :computer: 
   </p>
   </br>
   
