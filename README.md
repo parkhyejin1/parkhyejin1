@@ -38,10 +38,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
      </p>
   <p align="center">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
    </p>
 
 
@@ -74,8 +77,7 @@ Here are some ideas to get you started:
 
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=parkhyejin1)](https://parkhyejin1.github.io)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=parkhyejin1&color=dark)](https://github.com/parkhyejin1/velog-readme-stats)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=parkhyejin1&color=dark)](https://velog.io/@parkhyejin1) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=parkhyejin1&color=dark)](https://velog.io/@parkhyejin1) 
 
   </div>
 </br>
