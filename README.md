@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=parkhyejin1)](https://parkhyejin1.github.io)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=parkhyejin1)]([https://parkhyejin1.github.io](https://parkhyejin1.github.io/_sqld/2023-06-13-secondpost.html))
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=parkhyejin1)](https://parkhyejin1.github.io/_sqld/2023-06-13-secondpost.html)
 
   </div>
 </br>
