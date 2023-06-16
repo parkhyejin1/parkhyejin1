@@ -68,3 +68,12 @@ Here are some ideas to get you started:
 </br>
 
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=parkhyejin1&color=dark)](https://parkhyejin1.github.io/)
+
+
+
+
+
+
+
+
