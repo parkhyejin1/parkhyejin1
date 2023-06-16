@@ -74,7 +74,8 @@ Here are some ideas to get you started:
 
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=parkhyejin1)](https://parkhyejin1.github.io)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=parkhyejin1)](https://github.com/parkhyejin1/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=parkhyejin1&color=dark)](https://github.com/parkhyejin1/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=parkhyejin1&color=dark)](https://velog.io/@parkhyejin1) 
 
   </div>
 </br>
