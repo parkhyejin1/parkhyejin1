@@ -73,7 +73,7 @@ Here are some ideas to get you started:
  :memo: Git Blog  :memo:
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=parkhyejin1)](https://parkhyejin1.github.io)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=Hye jin's blog&color=dark)](https://parkhyejin1.github.io)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=parkhyejin1&color=dark)](https://github.com/parkhyejin1/velog-readme-stats)
 
   </div>
 </br>
