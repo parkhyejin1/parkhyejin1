@@ -21,8 +21,8 @@ Here are some ideas to get you started:
  
 </div>
 <br/>
+  <h1>
 <p align="center">
-   <h1>
 :computer: STACKS :computer: 
      </h1>
   </p>
