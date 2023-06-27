@@ -49,9 +49,11 @@ Here are some ideas to get you started:
 
 
  <br/>
+   <h1>
 <div align="center">
   
  :bulb: GitHub Stats :bulb:
+  </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkhyejin1&theme=omni)
 
