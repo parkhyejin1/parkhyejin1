@@ -78,7 +78,7 @@ Here are some ideas to get you started:
  <h1>
 <div align="center">
   
- :memo: Git Blog  :memo:
+ :dizzy: Git Blog  :dizzy:
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=parkhyejin1)](https://parkhyejin1.github.io)
    </h1>
