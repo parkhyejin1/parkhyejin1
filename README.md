@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br/>
   <h1>
 <p align="center">
-:computer:  STACKS  :computer: 
+💻  STACKS  💻
      </h1>
   </p>
   </br>
