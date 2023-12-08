@@ -52,7 +52,7 @@ Here are some ideas to get you started:
    <h1>
 <div align="center">
   
- :bulb: GitHub Stats :bulb:
+ 💡 GitHub Stats 💡
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkhyejin1&theme=omni)
